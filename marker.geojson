@@ -1,0 +1,1069 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/93h3Dx1/1.jpg",
+        "Title": "Mampir edisi Goes to Jogja",
+        "Date": "16 April 2024",
+        "Location": "Adit's Home, Petanahan, Kebumen"
+      },
+      "geometry": {
+        "coordinates": [109.585653688608, -7.7396337083877],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/TmS30DD/2.jpg",
+        "Title": "Goes to Jogja",
+        "Date": "16 April 2024",
+        "Location": "Bendung Manganti (Perbatasan Jabar - Jateng)"
+      },
+      "geometry": {
+        "coordinates": [108.718058821629, -7.44848133110677],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/fkVx1y0/3.jpg",
+        "Title": "Silaturahmi edisi Syawal",
+        "Date": "13 April 2024",
+        "Location": "Kubangpari, Bangunsari, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.541801254674, -7.44954675500547],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/yyMBsrj/4.jpg",
+        "Title": "Syawalan Bani Sulaiman",
+        "Date": "13 April 2024",
+        "Location": "Purbayasa, Sindangbarang, Karangpucung, Cilacap"
+      },
+      "geometry": {
+        "coordinates": [108.888723920141, -7.44298968146473],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/4WPtnL0/5.jpg",
+        "Title": "Mudik Lebaran",
+        "Date": "12 April 2024",
+        "Location": "Grandma's house, Karanggintung, Gandrungmangu, Cilacap"
+      },
+      "geometry": {
+        "coordinates": [108.860609674905, -7.45279415126567],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/YBfdrK9/6.jpg",
+        "Title": "Silaturahmi edisi Syawal",
+        "Date": "11 April 2024",
+        "Location": "Cikupa, Banjaranyar, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.507024460787, -7.49227477184696],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/QJZskgP/7.jpg",
+        "Title": "Idul Fitri",
+        "Date": "10 April 2024",
+        "Location": "Grandma's house, Sukahurip, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.543466977345, -7.46180169887477],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/2Z054nb/8.jpg",
+        "Title": "Goes to Shalat Ied",
+        "Date": "10 April 2024",
+        "Location": "Sukahurip, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.543119899188, -7.46413818589351],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/p2Yrv17/9.jpg",
+        "Title": "After Shalat Ied",
+        "Date": "10 April 2024",
+        "Location": "Sukahurip, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.542750656316, -7.46329983699347],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/Gkky2BV/10.jpg",
+        "Title": "Takbiran",
+        "Date": "9 April 2024",
+        "Location": "Mushola Almanar, Sukahurip, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.543034232058, -7.46206241278524],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/9YBmMy7/11.jpg",
+        "Title": "Bukber Alumni IX-C",
+        "Date": "8 April 2024",
+        "Location": "RM. Saung Deprok, Karangcengek, Pamarican"
+      },
+      "geometry": {
+        "coordinates": [108.537345135796, -7.44992070919388],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/QJDdg8J/12.jpg",
+        "Title": "Ngabuburit",
+        "Date": "6 April 2024",
+        "Location": "Alun-alun Banjarsari, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.615310708723, -7.4883486427602],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/FWRQNHD/13.jpg",
+        "Title": "Ngabuburit",
+        "Date": "6 April 2024",
+        "Location": "Jembatan Ciputrahaji, Banjarsari, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.597678963061, -7.47823247055679],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/0hMHhvK/14.jpg",
+        "Title": "Goes to Jogja",
+        "Date": "17 Februari 2024",
+        "Location": "Stasiun Banjar, Kota Banjar"
+      },
+      "geometry": {
+        "coordinates": [108.542246375189, -7.37649669401272],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/5GjwNfP/15.jpg",
+        "Title": "My Litle Sisters",
+        "Date": "17 Februari 2024",
+        "Location": "Grandma's house, Sukahurip, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.543432412118, -7.46177367399946],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/JjQ1NnL/17.jpg",
+        "Title": "Goes to Jogja",
+        "Date": "18 Januari 2024",
+        "Location": "Perbatasan Nusawungu, Cilacap - Ayah, Kebumen"
+      },
+      "geometry": {
+        "coordinates": [109.38803506519, -7.71606869671885],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/mJCtfhR/18.jpg",
+        "Title": "Goes to Jogja",
+        "Date": "18 Januari 2024",
+        "Location": "Bendung Manganti (Perbatasan Jabar - Jateng)"
+      },
+      "geometry": {
+        "coordinates": [108.717901956632, -7.44836820816428],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/7y5jr0y/19.jpg",
+        "Title": "Magang ATR/BPN Kota Banjar",
+        "Date": "17 Januari 2024",
+        "Location": "Ruang SP, Kantah Kota Banjar"
+      },
+      "geometry": {
+        "coordinates": [108.532305331994, -7.36433807238694],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/tL4tsm8/20.jpg",
+        "Title": "Jaga Kakek ",
+        "Date": "14 Januari 2024",
+        "Location": "Klinik Hiban Nur Medika, Pamarican"
+      },
+      "geometry": {
+        "coordinates": [108.52486, -7.4574],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/7CSG8gY/21.jpg",
+        "Title": "Pengukuran PTSL - Magang BPN",
+        "Date": "9 Januari 2024",
+        "Location": "Mulyasari, Pataruman, Banjar"
+      },
+      "geometry": {
+        "coordinates": [108.5845, -7.3721],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/7CSG8gY/21.jpg",
+        "Title": "Pengukuran PTSL - Magang BPN",
+        "Date": "9 Januari 2024",
+        "Location": "Mulyasari, Pataruman, Kota Banjar"
+      },
+      "geometry": {
+        "coordinates": [108.5845, -7.3721],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/TWQDK0n/22.jpg",
+        "Title": "Pengukuran PTSL - Magang BPN",
+        "Date": "9 Januari 2024",
+        "Location": "Pataruman, Kota Banjar"
+      },
+      "geometry": {
+        "coordinates": [108.56618, -7.3636],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/2NPw43f/23.jpg",
+        "Title": "Kulineran",
+        "Date": "4 Januari 2024",
+        "Location": "Seblak Teh Wina, Pamarican"
+      },
+      "geometry": {
+        "coordinates": [108.526812976953, -7.45782502310545],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/WFhC1d6/24.jpg",
+        "Title": "My Litle Sister",
+        "Date": "3 Januari 2024",
+        "Location": "My Home, Sukahurip, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.543151662796, -7.4622003385854],
+        "type": "Point"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/mR5tWB6/25.jpg",
+        "Title": "Magang ATR/BPN Kota Banjar",
+        "Date": "3 Januari 2024",
+        "Location": "Kantor Pertanahan Kota Banjar"
+      },
+      "geometry": {
+        "coordinates": [108.532452288512, -7.36425007661379],
+        "type": "Point"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/gvZBLXs/26.jpg",
+        "Title": "My Litle Sister",
+        "Date": "1 Januari 2024",
+        "Location": "My Home, Sukahurip, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.543212285104, -7.46222914618096],
+        "type": "Point"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/mFYNLY5/27.jpg",
+        "Title": "Goes to My Home",
+        "Date": "30 Desember 2023",
+        "Location": "JLS Puring, Kebumen"
+      },
+      "geometry": {
+        "coordinates": [109.473778116602, -7.75691863954479],
+        "type": "Point"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/4Yn3kc3/28.jpg",
+        "Title": "My Litle Sister",
+        "Date": "14 Juli 2023",
+        "Location": "My Home, Sukahurip, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.53623, -7.45271],
+        "type": "Point"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/gT5nyLd/29.jpg",
+        "Title": "My Familiy",
+        "Date": "14 Juli 2023",
+        "Location": "My Home, Sukahurip, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.54299, -7.46219],
+        "type": "Point"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/41Dq4Tz/30.jpg",
+        "Title": "Goes to My Home",
+        "Date": "13 Juli 2023",
+        "Location": "SDN Buntu 03, Kroya, Cilcap"
+      },
+      "geometry": {
+        "coordinates": [109.264335, -7.59269],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/zZFLLk9/16.jpg",
+        "Title": "Goes to My Home",
+        "Date": " ",
+        "Location": "Argopeni, Ayah, Kebumen"
+      },
+      "geometry": {
+        "coordinates": [109.39498, -7.73506],
+        "type": "Point"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/CQ4nvkD/55.jpg",
+        "Title": "Kulineran",
+        "Date": " ",
+        "Location": "Kedai Jorojoy, Kota Banjar"
+      },
+      "geometry": {
+        "coordinates": [108.544977784115, -7.37798569114627],
+        "type": "Point"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/CzBQg12/54.jpg",
+        "Title": "Kulineran",
+        "Date": " ",
+        "Location": "Lentera Cafe, Kota Banjar"
+      },
+      "geometry": {
+        "coordinates": [108.54311, -7.37522],
+        "type": "Point"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/q05hccM/53.jpg",
+        "Title": "Silaturahmi Alumni Pesantren",
+        "Date": " ",
+        "Location": "Pondok Pesantren Ihya Ulumiddin, Pamarican"
+      },
+      "geometry": {
+        "coordinates": [108.52537, -7.45792],
+        "type": "Point"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/mFNQd85/56.jpg",
+        "Title": "My Friends",
+        "Date": " ",
+        "Location": "My Home, Sukahurip, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.54313, -7.46216],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/vDJmQqw/59.jpg",
+        "Title": "My Friends",
+        "Date": " ",
+        "Location": "Alun-alun Banjarsari, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.61512, -7.48878],
+        "type": "Point"
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/vc9Pkd9/57.jpg",
+        "Title": "Service Motor",
+        "Date": " ",
+        "Location": "Bagja Motor, Pamarican"
+      },
+      "geometry": {
+        "coordinates": [108.523159487696, -7.45710277566105],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/0hjf9z4/51.jpg",
+        "Title": "Goes to My Home from Cipasung",
+        "Date": " ",
+        "Location": "Rancabango Tasikmalaya"
+      },
+      "geometry": {
+        "coordinates": [108.19894, -7.31717],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/SxpCBBZ/50.jpg",
+        "Title": "My Friends",
+        "Date": " ",
+        "Location": "Asrama Selamet, PP. Cipasung"
+      },
+      "geometry": {
+        "coordinates": [108.12887, -7.34951],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/nw3j04Q/52.jpg",
+        "Title": "Delegasi lomba nadhom imrithi",
+        "Date": " ",
+        "Location": "Asrama Selamet, PP. Cipasung"
+      },
+      "geometry": {
+        "coordinates": [108.12886, -7.34951],
+        "type": "Point"
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/26cYcfk/49.jpg",
+        "Title": "My Friends",
+        "Date": " ",
+        "Location": "Asrama Selamet, PP. Cipasung"
+      },
+      "geometry": {
+        "coordinates": [108.12889, -7.34951],
+        "type": "Point"
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/34J1FZq/48.jpg",
+        "Title": "My Friends",
+        "Date": " ",
+        "Location": "Universitas Islam KH.Ruhiat Cipasung, Tasikmalaya"
+      },
+      "geometry": {
+        "coordinates": [108.12718, -7.34957],
+        "type": "Point"
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/X8G7Jyt/47.jpg",
+        "Title": "My Friends",
+        "Date": " ",
+        "Location": "Universitas Islam KH.Ruhiat Cipasung, Tasikmalaya"
+      },
+      "geometry": {
+        "coordinates": [108.12656, -7.34986],
+        "type": "Point"
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/MCmdRtm/46.jpg",
+        "Title": "PERMATAGAMA at PISAU Fair",
+        "Date": " ",
+        "Location": "SMAN 1 Singaparna, Tasikmalaya"
+      },
+      "geometry": {
+        "coordinates": [108.11934, -7.3544],
+        "type": "Point"
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/rb7vJWd/45.jpg",
+        "Title": "PERMATAGAMA at PISAU Fair",
+        "Date": " ",
+        "Location": "SMAN 1 Singaparna, Tasikmalaya"
+      },
+      "geometry": {
+        "coordinates": [108.119842694844, -7.35444140415069],
+        "type": "Point"
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/0nW9zrV/44.jpg",
+        "Title": "Campus tour PERMATAGAMA",
+        "Date": " ",
+        "Location": "MAN 2 Tasikmalaya, Cipasung, Singaparna, Tasikmalaya"
+      },
+      "geometry": {
+        "coordinates": [108.13021, -7.35069],
+        "type": "Point"
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/fH61Fn4/58.jpg",
+        "Title": "My Friends",
+        "Date": " ",
+        "Location": "Sukahurip, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.55192, -7.46354],
+        "type": "Point"
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/pQ6tSz2/43.jpg",
+        "Title": "Kulineran",
+        "Date": " ",
+        "Location": "Seblak Gawir, Cikupa, Banjaranyar, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.499838499895, -7.49105820428847],
+        "type": "Point"
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/hWchmJQ/42.jpg",
+        "Title": "Kulineran",
+        "Date": " ",
+        "Location": "Kedai Jorojoy, Kota Banjar"
+      },
+      "geometry": {
+        "coordinates": [108.54497778412, -7.37798569114627],
+        "type": "Point"
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/tLBHQ7g/41.jpg",
+        "Title": "Visit School",
+        "Date": " ",
+        "Location": "SMKN 1 Banjar, Kota Banjar"
+      },
+      "geometry": {
+        "coordinates": [108.52672, -7.37095],
+        "type": "Point"
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/VHjFRMd/40.jpg",
+        "Title": "Mengantar Teman",
+        "Date": " ",
+        "Location": "Stasiun Banjar, Kota Banjar"
+      },
+      "geometry": {
+        "coordinates": [108.54233, -7.37655],
+        "type": "Point"
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/FwJVnFy/39.jpg",
+        "Title": "Mengantar Teman",
+        "Date": " ",
+        "Location": "Stasiun Banjar, Kota Banjar"
+      },
+      "geometry": {
+        "coordinates": [108.54227, -7.37652],
+        "type": "Point"
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/VxXy0fC/38.jpg",
+        "Title": "My Friends",
+        "Date": " ",
+        "Location": "Pasirgeulis, Padaherang, Pangandaran"
+      },
+      "geometry": {
+        "coordinates": [108.65965, -7.5169],
+        "type": "Point"
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/fxrybP8/37.jpg",
+        "Title": "Kulineran",
+        "Date": " ",
+        "Location": "Seblak Syaripah, Pasirgeulis, Padaherang, Pangandaran"
+      },
+      "geometry": {
+        "coordinates": [108.659274485469, -7.51880201864885],
+        "type": "Point"
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/Pcqjs0t/36.jpg",
+        "Title": "Hadroh Perform",
+        "Date": " ",
+        "Location": "Cikupa, Banjaranyar, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.49514, -7.50348],
+        "type": "Point"
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/k1tHfp4/35.jpg",
+        "Title": "Goes to Ciamis",
+        "Date": " ",
+        "Location": "Cijeungjing, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.4136, -7.33337],
+        "type": "Point"
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/2FGyWDV/34.jpg",
+        "Title": "Jalan-jalan",
+        "Date": " ",
+        "Location": "Area persawahan muntil, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.546538765425, -7.44287262989099],
+        "type": "Point"
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/GQ82SnY/33.jpg",
+        "Title": "Hadroh Perform",
+        "Date": " ",
+        "Location": "Kubangcalincing, Sukahurip, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.5397, -7.45736],
+        "type": "Point"
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/5jnXzbh/32.jpg",
+        "Title": "Kulineran",
+        "Date": " ",
+        "Location": "Seblak Karangmulya, Padaherang, Pangandaran"
+      },
+      "geometry": {
+        "coordinates": [108.67063, -7.51797],
+        "type": "Point"
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/gygfDLS/31.jpg",
+        "Title": "My Litle Sisters",
+        "Date": " ",
+        "Location": "Sukahurip, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.54396, -7.4629],
+        "type": "Point"
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/h7hxMGF/75.jpg",
+        "Title": "Memancing",
+        "Date": " ",
+        "Location": "Sukahurip, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.54422, -7.46293],
+        "type": "Point"
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/NFr2nDq/74.jpg",
+        "Title": "Ngaji Kitab Kuning",
+        "Date": " ",
+        "Location": "My Home, Sukahurip, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.543166547698, -7.46220534738179],
+        "type": "Point"
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/xHzJ347/73.jpg",
+        "Title": "Reuni Alumni Pesantren",
+        "Date": " ",
+        "Location": "Asrama Selamet, PP. Cipasung"
+      },
+      "geometry": {
+        "coordinates": [108.12897, -7.34991],
+        "type": "Point"
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/N9LSbrj/72.jpg",
+        "Title": "Reuni Alumni Pesantren",
+        "Date": " ",
+        "Location": "MAN 2 Tasikmalaya, Cipasung, Singaparna, Tasikmalaya"
+      },
+      "geometry": {
+        "coordinates": [108.13007, -7.35038],
+        "type": "Point"
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/QC141nc/71.jpg",
+        "Title": "Silaturahmi",
+        "Date": " ",
+        "Location": "Sukamulya, Singaparna, Tasikmalaya"
+      },
+      "geometry": {
+        "coordinates": [108.11981, -7.35915],
+        "type": "Point"
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/rxc9bN9/70.jpg",
+        "Title": "Reuni Alumni Pesantren",
+        "Date": " ",
+        "Location": "Pondok Pesantren Cipasung, Singaparna"
+      },
+      "geometry": {
+        "coordinates": [108.12901, -7.34922],
+        "type": "Point"
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/VJGTMP7/69.jpg",
+        "Title": "Hadroh Perform",
+        "Date": " ",
+        "Location": "Cikupa, Banjaranyar, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.503259582696, -7.4953755139588],
+        "type": "Point"
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/pJ7rxFg/68.jpg",
+        "Title": "Nonton Bioskop",
+        "Date": " ",
+        "Location": "Transmart Tasikmalaya"
+      },
+      "geometry": {
+        "coordinates": [108.199744962722, -7.31763686475161],
+        "type": "Point"
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/YPXr9GR/66.jpg",
+        "Title": "Wisuda Sepupu",
+        "Date": " ",
+        "Location": "MTsN 7 Ciamis, Pamarican"
+      },
+      "geometry": {
+        "coordinates": [108.52907698539, -7.4619296768532],
+        "type": "Point"
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/85Bq5Yb/65.jpg",
+        "Title": "Pagelaran Budaya Galuh",
+        "Date": " ",
+        "Location": "Lapang Ditakerti Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.521019365764, -7.45728632522469],
+        "type": "Point"
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/QNg4236/64.jpg",
+        "Title": "My Friends",
+        "Date": " ",
+        "Location": "Alun-alun Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.523674780066, -7.45740697890597],
+        "type": "Point"
+      },
+      "id": 69
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/FnV2Bk7/63.jpg",
+        "Title": "Hadroh Perform",
+        "Date": " ",
+        "Location": "Masjid Agung Baitudzikri, Alun-alun Pamarican"
+      },
+      "geometry": {
+        "coordinates": [108.523531122808, -7.45751523856577],
+        "type": "Point"
+      },
+      "id": 70
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/bKFfyXC/62.jpg",
+        "Title": "Healing",
+        "Date": " ",
+        "Location": "Pantai Timur Pangandaran"
+      },
+      "geometry": {
+        "coordinates": [108.670619713944, -7.68545685716443],
+        "type": "Point"
+      },
+      "id": 71
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/BLb5fsd/61.jpg",
+        "Title": "Ngaliwet",
+        "Date": " ",
+        "Location": "Sidaharja, Pamarican, Ciamis"
+      },
+      "geometry": {
+        "coordinates": [108.595245652954, -7.44855400224778],
+        "type": "Point"
+      },
+      "id": 72
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/pPccwNd/60.jpg",
+        "Title": "Campus tour",
+        "Date": " ",
+        "Location": "Universitas Siliwangi, Tasikmalaya"
+      },
+      "geometry": {
+        "coordinates": [108.222899411581, -7.34971221438684],
+        "type": "Point"
+      },
+      "id": 73
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://i.ibb.co/GCTB2yB/67.jpg",
+        "Title": "Reuni Alumni Paskibra MAN 2 Tasikmalaya",
+        "Date": " ",
+        "Location": "Chorio Coffee, Cintaraja, Tasikmalaya"
+      },
+      "geometry": {
+        "coordinates": [108.141946642768, -7.346029278381],
+        "type": "Point"
+      },
+      "id": 74
+    }
+  ]
+}
